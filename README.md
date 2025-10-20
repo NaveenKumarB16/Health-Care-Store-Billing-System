@@ -96,7 +96,6 @@ This project is licensed under the MIT License – free to use and modify.
 **Naveen Kumar B**  
 *Associate Software Developer*
 
- ✨
 
 ## 🗄️ Database Schema (MySQL)
 
