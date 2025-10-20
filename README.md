@@ -91,9 +91,10 @@ http://127.0.0.1:5000/
 
 This project is licensed under the MIT License – free to use and modify.
 
-## 🙌 Author
-Naveen Kumar B
-Associate Software Developer
+### 🙌 Author
+
+**Naveen Kumar B**  
+*Associate Software Developer*
 
  ✨
 
