@@ -91,8 +91,9 @@ http://127.0.0.1:5000/
 
 This project is licensed under the MIT License – free to use and modify.
 
-## 👨‍💻 Author
-Developed by [radhag-24](https://github.com/radhag-24) ✨
+## 🙌 Author
+Naveen Kumar B
+Associate Software Developer
 
  ✨
 
